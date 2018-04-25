@@ -45,6 +45,10 @@ public class XmlServlet extends HttpServlet {
 		for(String s: locationArray) {
 			writer.print(s + " ");
 		}
+		
+		for(String s: locationArray) {
+			writer.print(s + " ");
+		}
 	}
 	
 	// checking
