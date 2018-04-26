@@ -51,5 +51,5 @@ public class XmlServlet extends HttpServlet {
 		}
 	}
 	
-	// checking
+	// checking from git to eclipse
 }
